@@ -1,0 +1,6 @@
+{
+  "name": "BATTLE ZONE – SURVIVAL ARENA",
+  "description": "Videojuego Battle Royale 3D en tercera persona con construcción en tiempo real, armas, vehículos, bots con IA y multijugador online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
